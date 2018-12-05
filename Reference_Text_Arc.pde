@@ -13,7 +13,7 @@ text("TURN",180,160);
 delay(10);
 textSize(80);
 fill(255,0,0,random(0,255));
-text("Ul",200,250);
+text("Ul",180,160);
 
 stroke(255,0,0);
 noFill();
@@ -22,6 +22,6 @@ arc(270,210,40,37,radians(270),radians(450));
 
 textSize(70);
 fill(random(250),0,random(255));
-text("MAAAAN!!",100,340);
+text("MAAAAN!!",180,160);
  
 }
