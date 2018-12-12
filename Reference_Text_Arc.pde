@@ -10,7 +10,6 @@ fill(0,random(0,255),random(0,255));
 textSize(75);
 text("TURN",180,160);
 
-delay(10);
 textSize(80);
 fill(255,0,0,random(0,255));
 text("Ul",180,160);
