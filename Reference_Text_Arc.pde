@@ -1,4 +1,4 @@
-// post Reference_Text_Arc code here
+
 void setup(){
   size(500,500);
 frameRate(10);
